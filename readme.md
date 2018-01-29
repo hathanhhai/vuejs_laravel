@@ -12,7 +12,7 @@
 <h3>Run command</h3>
 <ul>
     <li>Run: composer update (install all file of laravel) </li>
-    <li>create database and connect.. edit file env.example </li>
+    <li>Run: php artisan key:generate </li>
     <li>Run: php artisan migrate (to generate database)</li>
     <li>Run: npm install (install all file of nodejs to run vuejs) </li>
     <li>cd {location your project of you} </li>
